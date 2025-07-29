@@ -34,17 +34,8 @@ IslamicHubAPI is a modern and responsive web application that integrates three m
 ## 🔗 Live Demo
 
 🌍 Visit the live app: https://islamichubapi.free.nf/
+
 💻 GitHub Repo: [https://github.com/yourusername/islamichubapi](https://github.com/yourusername/islamichubapi)
 
-## 📸 Screenshots
-
-_Add screenshots of your Quran, Hadith, and Prayer Times pages here._
-
-## 📬 Contact
-
-For suggestions or collaboration:  
-📧 khizersmarttt@gmail.com
-
----
 
 ⭐ If you find this useful, consider starring the repo and sharing it!

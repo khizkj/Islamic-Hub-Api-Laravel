@@ -1,4 +1,4 @@
-# IslamicHubAPI 🌙
+# Islamic Api Hub 🌙
 
 IslamicHubAPI is a modern and responsive web application that integrates three major Islamic APIs in one place:
 

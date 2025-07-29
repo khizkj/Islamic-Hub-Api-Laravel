@@ -35,7 +35,6 @@ IslamicHubAPI is a modern and responsive web application that integrates three m
 
 🌍 Visit the live app: https://islamichubapi.free.nf/
 
-💻 GitHub Repo: [https://github.com/yourusername/islamichubapi](https://github.com/khizkj/islamichubapi)
-
+💻 GitHub Repo: https://github.com/khizkj/Islamic-Hub-Api-Laravel
 
 ⭐ If you find this useful, consider starring the repo and sharing it!

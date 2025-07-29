@@ -30,11 +30,10 @@ IslamicHubAPI is a modern and responsive web application that integrates three m
 - Laravel (Backend + Blade Templates)
 - Tailwind CSS & Bootstrap (Responsive UI)
 - JavaScript (Frontend Interactions)
-- Hosted on: https://islamichubapi.free.nf/
 
 ## 🔗 Live Demo
 
-🌍 Visit the live app: [https://your-deployed-link.com](https://your-deployed-link.com)  
+🌍 Visit the live app: https://islamichubapi.free.nf/
 💻 GitHub Repo: [https://github.com/yourusername/islamichubapi](https://github.com/yourusername/islamichubapi)
 
 ## 📸 Screenshots
